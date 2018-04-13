@@ -29,9 +29,9 @@
 	<!-- <logger name="play" level="INFO" /> <logger name="application" level="DEBUG" 
 		/> <logger name="mappers" level="DEBUG" /> -->
 
-<!-- 	<logger name="com.study" level="DEBUG">
+	<logger name="com.study" level="DEBUG">
 		<appender-ref ref="STDOUT" />
-	</logger> -->
+	</logger>
 
 	<root level="DEBUG">
 		<appender-ref ref="FILE" />
